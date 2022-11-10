@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 461f0f839d14a9e4c9a198fb9f964e3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7614642454492700949
+    second: pacman ahora si.2_0
+  - first:
+      213: 7878737264458741638
+    second: pacman ahora si.2_1
+  - first:
+      213: -7245580801546738500
+    second: pacman ahora si.2_2
+  - first:
+      213: -7975184028969635649
+    second: pacman ahora si.2_3
+  - first:
+      213: -4280575282226279754
+    second: pacman ahora si.2_4
+  - first:
+      213: 8645682292748119691
+    second: pacman ahora si.2_5
+  - first:
+      213: -1019649381577292812
+    second: pacman ahora si.2_6
+  - first:
+      213: -2942921635674892264
+    second: pacman ahora si.2_7
+  - first:
+      213: 3905393516468202124
+    second: pacman ahora si.2_8
+  - first:
+      213: 4186312219863619630
+    second: pacman ahora si.2_9
+  - first:
+      213: 3845019665529316513
+    second: pacman ahora si.2_10
+  - first:
+      213: 7019997954110663554
+    second: pacman ahora si.2_11
+  - first:
+      213: 4527086946535115323
+    second: pacman ahora si.2_12
+  - first:
+      213: 3443404406789842483
+    second: pacman ahora si.2_13
+  - first:
+      213: -1351329544493184880
+    second: pacman ahora si.2_14
+  - first:
+      213: -1461224642947931532
+    second: pacman ahora si.2_15
+  - first:
+      213: -6478778033112392604
+    second: pacman ahora si.2_16
+  - first:
+      213: -4395571618843222500
+    second: pacman ahora si.2_17
+  - first:
+      213: 6620734667136806144
+    second: pacman ahora si.2_18
+  - first:
+      213: -1770528589227726765
+    second: pacman ahora si.2_19
+  - first:
+      213: -820956856761607919
+    second: pacman ahora si.2_2
+  - first:
+      213: 5372616302145262993
+    second: pacman ahora si.2_3
+  - first:
+      213: 7945349645303147289
+    second: pacman ahora si.2_6
+  - first:
+      213: 6142704322119820232
+    second: pacman ahora si.2_7
+  - first:
+      213: 2918603052533309213
+    second: pacman ahora si.2_8
+  - first:
+      213: 1375826788601115178
+    second: pacman ahora si.2_9
+  - first:
+      213: -8910191365791244823
+    second: pacman ahora si.2_10
+  - first:
+      213: 4255106953539152422
+    second: pacman ahora si.2_11
+  - first:
+      213: 7539749284962280652
+    second: pacman ahora si.2_12
+  - first:
+      213: -5851178566711273483
+    second: pacman ahora si.2_13
+  - first:
+      213: 407274628133286548
+    second: pacman ahora si.2_14
+  - first:
+      213: -6077918097791518346
+    second: pacman ahora si.2_15
+  - first:
+      213: 4613549408092145720
+    second: pacman ahora si.2_16
+  - first:
+      213: 6236883865468189603
+    second: pacman ahora si.2_17
+  - first:
+      213: 2976759721438257654
+    second: pacman ahora si.2_18
+  - first:
+      213: -4810057866618613548
+    second: pacman ahora si.2_0
+  - first:
+      213: 5934825859863499676
+    second: pacman ahora si.2_1
+  - first:
+      213: -5284989208497940161
+    second: pacman ahora si.2_4
+  - first:
+      213: 2633227048461281863
+    second: pacman ahora si.2_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pacman ahora si.2_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 336
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0df17eadd3f3db0800000000000000
+      internalID: 7614642454492700949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman ahora si.2_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 349
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9357fcecacbc5250800000000000000
+      internalID: 7878737264458741638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman ahora si.2_2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 407
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1199dc0a6106b94f0800000000000000
+      internalID: -7245580801546738500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman ahora si.2_4
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 4
+        width: 350
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3915b1e052f7a6b0800000000000000
+      internalID: -4280575282226279754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman ahora si.2_5
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 4
+        width: 336
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2c749c0a1b8420800000000000000
+      internalID: 8645682292748119691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman ahora si.2_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 68
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abb89ac4dcdd8650800000000000000
+      internalID: -4395571618843222500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pacman ahora si.2_5: 8645682292748119691
+      pacman ahora si.2_17: -4395571618843222500
+      pacman ahora si.2_1: 7878737264458741638
+      pacman ahora si.2_4: -4280575282226279754
+      pacman ahora si.2_0: 7614642454492700949
+      pacman ahora si.2_2: -7245580801546738500
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ActualizarTorre">
+    <Position X="6.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABQACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ActualizarTorre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bala">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQBAAAAAKQAAAAADBAACAgAAgAAAgABACAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Bala.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Unidad" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ControlEjecucion" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ControlEjecucion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PoolingUnidades" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ControlesTorre">
+    <Position X="3.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAAAAAAAAAAAAAAAIAAAIAAAAACAAIA=</HashCode>
+      <FileName>Assets\Scripts\ControlesTorre.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ActualizarTorre" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Direccion">
+    <Position X="8.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAABQCAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Direccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hud">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAIAEAAKAAAAAAAAAAAgAABAEQAQAMAAMIAAAkBAE=</HashCode>
+      <FileName>Assets\Scripts\Hud.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ControlEjecucion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LogicaBarra">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAACAAAAAAAAgAAAAAhAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LogicaBarra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicaPonerTorre">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAhAAAAAQAAAAAAAAAAAAAAAAAAAIAAAEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LogicaPonerTorre.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Torre1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PoolingUnidades">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACQAAAAAAAAAAABAAAAAKAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PoolingUnidades.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Unidad" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Torre">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <AssociationLine Name="ControlesTorre" Type="ControlesTorre" FixedFromPoint="true">
+      <Path>
+        <Point X="1.562" Y="12.635" />
+        <Point X="1.562" Y="13.011" />
+        <Point X="4.5" Y="13.011" />
+        <Point X="4.5" Y="10.761" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAQAASEAQCABAAgAAAAAAIQAAAAAADAAAAkQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Torre.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ControlesTorre" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Unidad" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABIgAACABEAAACCQAAAgsAEQAAAABAAQIAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\Unidad.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LogicaBarra1" />
+      <Property Name="Direccion" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="IControlable">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IControlable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
